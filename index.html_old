@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zhigang LU's Homepage</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="The Curriculum Vitae of Zhigang Lu."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300" rel="stylesheet" type="text/css">
+<!-- <style>
+	@import url('https://fonts.googleapis.com/css?family=Rokkitt:400,700&display=swap');
+	@import url('https://fonts.googleapis.com/css?family=Lato:400,300&display=swap');
+</style> -->
+
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="headshot.jpg" alt="Zhigang Lu" />
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Zhigang LU</h1>
+			<h2 class="quickFade delayThree">Postdoctoral Research Fellow</h2>
+			<h3 class="quickFade delayFour"><a href="https://www.mq.edu.au/partner/access-business-opportunities/innovation-entrepreneurship-and-it/cyber-security-hub">Macquarie University Cyber Security Hub</a></h3>
+			<h3 class="quickFade delayFour"><a href="https://www.mq.edu.au/faculty-of-science-and-engineering">Faculty of Science and Engineering</a></h3>
+			<h3 class="quickFade delayFour"><a href="https://www.mq.edu.au">Macquarie University</a></h3>
+			<br />
+			<h3 class="quickFade delayFour">Email: <a href="mailto:zhigang.lu@mq.edu.au" target="_blank">zhigang [DOT] lu [AT] mq [DOT] edu [DOT] au</a></h3>
+			<h3 class="quickFade delayFour">Address: Level 2, <a href="https://www.mq.edu.au/__data/assets/pdf_file/0016/108142/Campus-Map.pdf">4 Research Park Drive</a>, <a href="https://www.ryde.nsw.gov.au/Living-in-Ryde/Your-Local-Urban-Hubs/Macquarie-Park">Macquarie Park</a>, <a href="https://www.visitnsw.com">NSW</a> 2010, <a href="https://www.australia.com/en">Australia</a></a></h3> 
+
+			<br />
+			<h3 class="quickFade delayFour"><b><a href="https://www.youtube.com/watch?v=OV5_LQArLa0">You'll Never Walk Alone</a></b></h3>
+		</div>
+		
+		<!-- <div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>Email: <a href="mailto:zhigang.lu@adelaide.edu.au" target="_blank">zhigang.lu@adelaide.edu.au</a></li>
+				<li>w: <a href="http://www.bloggs.com">www.bloggs.com</a></li>
+				<li>Office: Room 4.53, <a href="https://ecms.adelaide.edu.auabout/ingkarni-wardli/">Ingkarni Wardli</a>, <a href="http://www.adelaide.edu.au/campuses/northtce/">North Terrace Campus</a></li>
+			</ul>
+		</div> -->
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Personal Profile</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>
+						Zhigang Lu is a Postdoctoral Research Fellow with <a href="https://www.mq.edu.au/partner/access-business-opportunities/innovation-entrepreneurship-and-it/cyber-security-hub">Macquarie University Cyber Security Hub</a>, <a href="https://www.mq.edu.au">Macquarie University</a> from Jan 2020, working closely with <a href="https://dali-kaafar.github.io">Prof Dali Kaafar</a> and <a href="https://hasghar.github.io/">Dr Hassan Asghar</a>.
+					</p>
+          			<p>
+						Prior to that, he obtained his PhD (supervised by <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Prof Hong Shen</a> and <a href="https://web.science.mq.edu.au/~qsheng/">Prof Michael Sheng</a>) and MPhil (supervised by <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Prof Hong Shen</a> and <a href="https://www.adelaide.edu.au/directory/nickolas.falkner">A/Prof Nickolas Falkner</a>) degrees from <a href="https://www.adelaide.edu.au/">the University of Adelaide</a> and BEng degree from <a href="https://en.xidian.edu.cn">Xidian University</a> all in computer science.
+					</p>
+					<p>
+						He also worked as a Data Scientist in the industry for three months in early 2022.
+					</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Research Interests</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>Differential privacy, Secure multi-party computation, Information theory, Adversarial machine learning, Transfer learning</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Publications</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Journal articles</h2>
+						<li><b>Zhigang Lu</b>, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>. 2022. <a href="https://arxiv.org/abs/2001.01825">Protect Edge Privacy in Path Publishing with Differential Privacy</a>. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028">IEEE Transactions on Network and Service Management (TNSM)</a>, To Appear.</li>
+						<br />
+						<li><b>Zhigang Lu</b>, <a href="https://hasghar.github.io/">Hassan Jameel Asghar</a>, <a href="https://dali-kaafar.github.io">Dali Kaafar</a>, Darren Webb, Peter Dickinson. 2022. <a href="https://ieeexplore.ieee.org/document/9762326">A Differentially Private Framework for Deep Learning with Convexified Loss Functions</a>. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">IEEE Transactions on Information Forensics and Security (TIFS)</a>, Early Access.</li>
+						<br />
+						<li><b>Zhigang Lu</b>, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>. 2021. <a href="https://ieeexplore.ieee.org/document/9286725">Differentially Private k-Means Clustering with Convergence Guarantee</a>. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858">IEEE Transactions on Dependable and Secure Computing (TDSC)</a>, vol. 18, no. 4, pp. 1541-1552.</li>
+						<br />
+						<li><b>Zhigang Lu</b>, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>. 2015. <a href="http://www.comsis.org/archive.php?show=pprapdc-2">An Accuracy-Assured Privacy-Preserving Recommender System for Internet Commerce</a>. <a href="http://www.comsis.org/index.php">Computer Science and Information Systems (ComSIS)</a>, vol. 12, no. 4, pp. 1307–1326.</li>
+						<br />
+				</article>
+				<hr/>
+
+				<article>
+				<h2>Conference papers</h2>
+					<li>Aoting Hu, Renjie Xie, <b>Zhigang Lu</b>, Aiqun Hu, <a href="https://people.csiro.au/X/J/Jason-Xue">Minhui Xue</a>. 2021. <a href="https://dl.acm.org/doi/10.1145/3460120.3485251">TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing</a>. In Proceedings of <a href="https://www.sigsac.org/ccs/CCS2021/">the 28th International Conference on Computer and Communicatiions Security (CCS-2021)</a>. ACM, pp. 2096-2112.</li>
+					<br />
+					<li>Nazim Uddin Sheikh, <b>Zhigang Lu</b>, <a href="https://hasghar.github.io/">Hassan Jameel Asghar</a>, <a href="https://dali-kaafar.github.io">Dali Kaafar</a>. 2021. <a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=53KD38BXBBA=&t=1">Trace Recovery: Inferring Fine-grained Trace of Energy Data from Aggregates</a>. In Proceedings of <a href="http://www.secrypt.org/">the 18th International Conference on Security and Cryptography (SECRYPT-2021)</a>. SCITEPRESS, pp. 283-294.</li>
+					<br />
+					<li>Xuejiao Mu, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>, <b>Zhigang Lu</b>. 2019. <a href="https://ieeexplore.ieee.org/abstract/document/9029161">Temporal Caching-aware Dummy Location Selection for Privacy Protection in Location-based Services</a>. In Proceedings of <a href="https://www.pdcat.org">the 20th International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT-2019)</a>. IEEE, pp. 501-504.</li>
+					<br />
+					<li><b>Zhigang Lu</b>, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>. 2019. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-16148-4_47">A Convergent Differentially Private k-Means Clustering Algorithm</a>. In Proceedings of <a href="http://pakdd2019.medmeeting.org/Content/100312">the 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2019)</a>. Springer, pp. 612-624.</li>
+					<br />
+					<li><b>Zhigang Lu</b>, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>. 2017. <a href="https://ieeexplore.ieee.org/document/8326802/">A New Lower Bound of Privacy Budget for Distributed Differential Privacy</a>. In Proceedings of <a href="http://pdcat17.csie.ntust.edu.tw/index.php">the 18th International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT-2017)</a>. IEEE, pp. 25-32.</li>
+					<br />
+					<li><b>Zhigang Lu</b>, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>. 2017. <a href="https://link.springer.com/chapter/10.1007/978-3-319-57529-2_24">Secured Privacy Preserving Data Aggregation with Semi-honest Servers</a>. In Proceedings of <a href="http://pakdd2017.snu.ac.kr/">the 21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2017)</a>. Springer, pp. 300-312.</li>
+					<br />
+					<li><b>Zhigang Lu</b>, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>. 2016. <a href="http://rd.springer.com/chapter/10.1007%2F978-981-10-0068-3_30">A Fast Algorithm to Build New Users Similarity List in Neighbourhood-Based Collaborative Filtering</a>. In Proceedings of <a href="http://www.pdcat2015.org/">the 16th International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT-2015)</a>. Springer, pp. 229–236.</li>
+					<br />
+					<li><b>Zhigang Lu</b>, <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Hong Shen</a>. 2015. <a href="http://dl.acm.org/citation.cfm?id=2790757">A Security-assured Accuracy-maximised Privacy Preserving Collaborative Filtering Recommendation Algorithm</a>. In Proceedings of <a href="http://confsys.encs.concordia.ca/IDEAS/ideas15/ideas15.php">the 19th International Database Engineering & Applications Symposium (IDEAS-2015)</a>. ACM, pp. 72-80.</li>
+					<br />
+				</article>
+				<hr/>
+				
+				<article>
+				<h2>Manuscript(s)</h2>
+					<li>Longkun Guo, Chaoqi Jia, <a href="https://webapps.acu.edu.au/staffdirectory/index.php?Kewen-Liao">Kewen Liao</a>, <b>Zhigang Lu*</b>, <a href="https://people.csiro.au/X/J/Jason-Xue">Minhui Xue</a>. 2022. A Differentially Private k-Center Approximation Algorithm.</li>
+					<br />
+					<li>Longkun Guo, Chaoqi Jia, <a href="https://webapps.acu.edu.au/staffdirectory/index.php?Kewen-Liao">Kewen Liao</a>, <b>Zhigang Lu*</b>, <a href="https://people.csiro.au/X/J/Jason-Xue">Minhui Xue</a>. 2022. Approximation Algorithms for Constrained k-Center Clustering.</li>
+					<br />
+					<li>Shakila Mahjabin Tonni, <a href="https://research.csiro.au/isp/about-us/people/dinusha-vatsalan/">Dinusha Vatsalan</a>, <a href="https://farokhi.xyz">Farhad Farokhi</a>, <a href="https://dali-kaafar.github.io">Dali Kaafar</a>, <b>Zhigang Lu</b>, Gioacchino Tangari. 2020. <a href="https://arxiv.org/abs/2002.06856">Data and Model Dependencies of Membership Inference Attack</a>. </li>
+					<br />
+				</article>
+				<hr/>
+				<p>*: alphabetical order</p>
+			</div>
+			<div class="clear"></div>
+		</section>
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Voluntary Services</h1>
+			</div>
+
+			<div class="sectionContent">
+				<article>
+					<h2>PC member</h2>
+					<li>The International Conference on Mobile Systems and Pervasive Computing (MobiSPC-2022, 2021, 2020, 2019)</li>
+					<li>The Australasian Conference on Information Systems (ACIS-2021)</li>
+					<li>The International Workshop on Security and Privacy in Big Data (BigSecurity-2021)</li>
+					<li>The IEEE international conference on Data Science and Systems (DSS-2020)</li>
+					<li>The International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN-2020, 2019, 2018)</li>
+					<li>The EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous-2019)</li>
+				</article>
+				<br />
+				<article>
+					<h2>Session Chair</h2>
+					<li>The ACM International Conference on Computer and Communicatiions Security (CCS-2021)</li>
+					<li>The International Database Engineering & Applications Symposium (IDEAS-2015)</li>
+				</article>
+				<br />
+				<article>
+					<h2>Reviewer</h2>
+					<li>Computing Journal (Computing 2021, 2018)</li>
+					<li>IEEE Internet of Things Journal (IoTJ 2021)</li>
+					<li>IEEE Transactions on Information Forensics and Security (TIFS 2021, 2020)</li>
+					<li>Journal of Internet Technology (JIT 2021)</li>
+					<li>International Journal of Data Science and Analytics (IJDSA 2021, 2020, 2018)</li>
+                                        <li>ACM Transactions on Internet Technology (TOIT 2021)</li>
+					<li>AAAI Workshop on Privacy-Preserving Artificial Intelligence (PPAI-2021)</li>
+					<li>The Network and Distributed System Security Symposium (NDSS-2021)</li>
+					<li>The EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous-2020, 2018)</li>
+					<li>ACM Transactions on Sensor Networks (TOSN 2020)</li>
+					<li>The Australasian Data Mining Conference (AusDM-2019)</li>
+				</article>
+				<br />
+				<article>
+					<h2>Sub-reviewer</h2>
+					<li>The International Conference on Progress in Informatics and Computing (PIC-2020)</li>
+					<li>The IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid-2020)</li>
+					<li>The International Conference on Web Information Systems Engineering (WISE-2019)</li>
+					<li>The IEEE International Conference on Cloud Computing (IEEE CLOUD-2018)</li>
+					<li>The International Journal of Computers and Electrical Engineering (IJCEE)</li>
+					<li>The International Conference on Advanced Data Mining and Applications (ADMA-2017)</li>
+					<li>The IEEE International Conference on Big Data Science and Engineering (IEEE BigDataSE-2017)</li>
+				</article>
+				<br />
+				<article>
+					<h2>External reviewer</h2>
+					<li>ACM ASIA Conference on Computer and Communications Security (AsiaCCS-2022)</li>
+					<li>The IEEE International Conference on Network Protocols (ICNP-2021)</li>
+					<li>The Privacy Enhancing Technologies Symposium (PETS-2021, 2020)</li>
+					<li>The AAAI Conference on Artificial Intelligence (AAAI-2021)</li>
+					<li>Cyber Defence Next Generation Technology & Science Conference (CDNG-2020)</li>
+					<li>The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2018)</li>
+				</article>
+				<br />
+				<article>
+					<h2>Reading Group Organiser</h2>
+					<li>Information Security and Privacy (ISP) Reading Group (<a href="https://www.mq.edu.au/">Macquarie University</a>, 2021)</li>
+					<li>Prof Hong Shen Reading Group (<a href="https://www.adelaide.edu.au/">The University of Adelaide</a>, 2019)</li>
+				</article>
+				<br />
+			</div>
+			<div class="clear"></div>
+		</section>
+
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Supervision</h1>
+			</div>
+
+			<div class="sectionContent">
+				<article>
+					<h2>Co-supervisor</h2>
+					<h3>Masroor Fattah Bin Hossain, 2021, "Analysing Privacy-Preserving Deep Learning Techniques” (co-supervise with <a href="https://imikr4m.github.io/">Dr Muhammad Ikram</a>)</h3>
+					<p class="subDetails"><a href="">Research Internship Project, Department of Computing, Macquarie University</a></p>
+					<br />
+					<h3>Xuejiao Mu, 2018, "Trajectory Protection of Mobile Devices on LBS in Wireless Environments” (co-supervise with <a href="https://researchers.adelaide.edu.au/profile/hong.shen">Prof Hong Shen</a>)</h3>
+					<p class="subDetails"><a href="https://cs.adelaide.edu.au/current-students/postgrad/mcs/">Master Research Project, School of Computer Science, the University of Adelaide</a></p>
+				</article>
+				<br />
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Teaching and Tutoring</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<h2>with <a href="https://www.adelaide.edu.au/">the University of Adelaide</a></h2>
+				<article>
+					<h2>Lecturer</h2>
+					<li>Foundations of Computer Science (s1/2017)</li>
+				</article>
+				<br />
+
+				<article>
+					<h2>Workshop Supervisor</h2>
+					<li>Cybersecurity Fundamentals (s1/2019)</li>
+				</article>
+				<br />
+
+				<article>
+					<h2>Tutor</h2>
+					<li>Operating Systems (s2/2018, s2/2017, s2/2015, s2/2014)</li>
+					<li>Algorithm and Data Structure Analysis (s2/2016, s2/2014)</li>
+					<li>Advanced Algorithms (s1/2014)</li>
+				</article>
+				<br />
+
+				<article>
+					<h2>Teaching Assistant</h2>
+					<li>Distributed Databases and Data Mining (s1/2018, s2/2017, s1/2016, s2/2015, s2/2014)</li>
+				</article>
+				<br />
+			</div>
+			<div class="clear"></div>
+		</section>
+
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Awards and Honours</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<!-- <ul> -->
+				<article>
+					<li>University Master by Research Medal (two recipients per year)</li>
+					<p class="tab"><a href="https://www.adelaide.edu.au/">The University of Adelaide</a>, 2016</p>
+					<!-- <p class="subDetails">2016</p> -->
+				<!-- </article> -->
+					<!-- <br /> -->
+
+				<!-- <article> -->
+					<li>Adelaide Graduate Research Scholarship (AGRS)</li>
+					<p class="tab"><a href="https://www.adelaide.edu.au/">The University of Adelaide</a>, 2015</p>
+					<!-- <p class="subDetails">2015</p> -->
+				<!-- </article> -->
+					<!-- <br /> -->
+
+				<!-- <article> -->
+					<li>Dean of Graduate Studies Congratulations Letter</li>
+					<p class="tab"><a href="https://www.adelaide.edu.au/">The University of Adelaide</a>, 2015</p>
+					<!-- <p class="subDetails">2015</p> -->
+				<!-- </article> -->
+					<!-- <br /> -->
+
+				<!-- <article> -->
+					<!-- <li>National Encouragement Scholarship</li>
+					<p class="tab"><a href="https://en.xidian.edu.cn/">Xidian University</a>, 2010</p> -->
+					<!-- <p class="subDetails">2010</p> -->
+				<!-- </article> -->
+					<!-- <br /> -->
+
+				<!-- <article> -->
+					<!-- <li>Second Award, Xinghuo Cup Science and Technology Contest</li>
+					<p class="tab"><a href="https://en.xidian.edu.cn/">Xidian University</a>, 2009</p> -->
+					<!-- <p class="subDetails">2009</p> -->
+				<!-- </article> -->
+					<!-- <br /> -->
+
+				<!-- <article> -->
+					<!-- <li>First Award, National Undergraduate Mathematical Contest in Modelling</li>
+					<p class="tab">Shaanxi Division, 2009</p> -->
+					<!-- <p class="subDetails">2009</p> -->
+				<!-- </article> -->
+					<!-- <br /> -->
+
+				<!-- <article> -->
+					<!-- <li>Third-class Scholarship of University</li>
+					<p class="tab"><a href="https://en.xidian.edu.cn/">Xidian University</a>, 2008</p> -->
+					<!-- <p class="subDetails">2008</p> -->
+				</article>
+					<!-- <br /> -->
+				<!-- </ul> -->
+			</div>
+			<div class="clear"></div>
+		</section>
+
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Useful Links</h1>
+			</div>
+
+			<div class="sectionContent">
+				<article>	
+					<ul>
+						<li><a href="https://sec-deadlines.github.io/">Conferences (in Cybersecurity) Deadlines</a></li>
+					</ul>
+				</article>
+				
+				<article>	
+					<ul>
+						<li><a href="https://jackietseng.github.io/conference_call_for_paper/conferences.html">Conferences (in KDD/ML/AI) Deadlines</a></li>
+					</ul>
+				</article>
+				
+				<article>	
+					<ul>
+						<li><a href="https://www.core.edu.au/conference-portal">CORE Rankings</a></li>
+					</ul>
+				</article>
+				
+				<article>	
+					<ul>
+						<li><a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml">CCF Rankings</a></li>
+					</ul>
+				</article>
+
+				<article>
+					<ul>
+						<li><a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm">Computer Security Conference Ranking and Statistic</a> by <a href="https://people.engr.tamu.edu/guofei/index.html">Prof Guofei Gu</a></li>
+					</ul>
+				</article>
+				
+				<article>
+					<ul>
+						<li><a href="http://jianying.space/conference-ranking-history.html">Top 20 Cybersecurity Conferences (by year)</a> by <a href="http://jianying.space/">Prof Jianying Zhou</a></li>
+					</ul>
+				</article>
+
+				<article>
+					<ul>
+						<li><a href="https://www.goodreads.com/en/book/show/15731248-the-ph-d-grind">The Ph.D. Grind: A Ph.D. Student Memoir</a> by <a href="https://pg.ucsd.edu/">A/Prof Philip Guo</a></li>
+					</ul>
+				</article>
+
+				<hr/>
+
+				<article>
+					<ul>
+						<li><a href="https://stackoverflow.com/questions/10977593/can-google-track-me-if-i-use-google-web-fonts">Google Trackers on This Page</li>
+					</ul>
+				</article>
+
+				<article>
+					<ul>
+						<li><a href="https://www.computerhistory.org/tdih">Today in Computer History</li>
+					</ul>
+				</article>
+
+				<article>
+					<ul>
+						<li><a href="https://www.jstor.org/stable/10.1086/665048?seq=1#metadata_info_tab_contents">Is Noise Always Bad?</li>
+					</ul>
+				</article>
+				
+				<br />
+			</div>
+			<div class="clear"></div>
+		</section>
+
+		<section>
+			<div class="sectionTitle">
+			</div>
+
+			<div class="sectionContent">
+				<a href="https://www.accuweather.com/en/au/macquarie-park/3496544/weather-forecast/3496544" class="aw-widget-legal"></a><div id="awcc1509433218381" class="aw-widget-current"  data-locationkey="3496544" data-unit="c" data-language="en-gb" data-useip="false" data-uid="awcc1509433218381"></div><script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
+			</div>
+			<div class="clear"></div>
+		</section>
+
+		
+	</div>
+</div>
+
+<script language="Javascript">
+update = new Date(document.lastModified);
+//theDate = update.getDate();
+//theMonth = update.getMonth() + 1;
+switch (update.getMonth() + 1) {
+	case 1:
+		theMonth = "Janurary";
+		theMonthS = "Jan";
+		theMonthN = "01";
+		break;
+	case 2:
+		theMonth = "February";
+		theMonthS = "Feb";
+		theMonthN = "02";
+		break;
+	case 3:
+		theMonth = "March";
+		theMonthS = "Mar";
+		theMonthN = "03";
+		break;
+	case 4:
+		theMonth = "April";
+		theMonthS = "Apr";
+		theMonthN = "04";
+		break;
+	case 5:
+		theMonth = "May";
+		theMonthS = "May";
+		theMonthN = "05";
+		break;
+	case 6:
+		theMonth = "June";
+		theMonthS = "June";
+		theMonthN = "06";
+		break;
+	case 7:
+		theMonth = "July";
+		theMonthS = "July";
+		theMonthN = "07";
+		break;
+	case 8:
+		theMonth = "August";
+		theMonthS = "Aug";
+		theMonthN = "08";
+		break;
+	case 9:
+		theMonth = "September";
+		theMonthS = "Sept";
+		theMonthN = "09";
+		break;
+	case 10:
+		theMonth = "October";
+		theMonthS = "Oct";
+		theMonthN = "10";
+		break;
+	case 11:
+		theMonth = "November";
+		theMonthS = "Nov";
+		theMonthN = "11";
+		break;
+	case 12:
+		theMonth = "December";
+		theMonthS = "Dec";
+		theMonthN = "12";
+		break;
+}
+theYear = update.getFullYear();
+//var w = "Last Modified: " + theDate + "/" + theMonth + "/" + theYear;
+var w = "Last Modified: " + theMonth + "/" + theYear;
+document.write('&nbsp;' + w);
+// document.write('&nbsp;' + w + " by " + '<a href="">suluz</a>');
+// document.write("-" + w + " (" + '<a class="modiDate" style="color:black; text-decoration:none" onmouseover="myOverFunc" href="https://dayintechhistory.com/' + theYear + '/' + theMonthN + '/">This month in Tech history?</a>' + ")");
+//function myOverFunc() {
+//	document.getElementsByClassName("modiDate").style.color = "#cf8a05";
+//}
+</script>
+
+<br />
+<!-- Start of StatCounter Code for Default Guide -->
+<!-- <script type="text/javascript">
+var sc_project=11215254; 
+var sc_invisible=1; 
+var sc_security="2a1ba4d6"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web analytics"href="http://statcounter.com/" target="_blank"><img class="statcounter"src="//c.statcounter.com/11215254/0/2a1ba4d6/0/" alt="webanalytics"></a></div></noscript> -->
+<!-- End of StatCounter Code for Default Guide -->
+<p></p>
+</body>
+</html>
