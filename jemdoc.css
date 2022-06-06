@@ -10,12 +10,14 @@ body {
 	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
-	margin: 0;
+	/* margin: 0;
 	position: absolute;
     top: 0px;
     left: 20%;
-    /* margin-left: -500px; */
-	max-width: 920px;
+	max-width: 920px; */
+	margin: auto;
+	width: 50%;
+	padding: 10px;
 }
 
 #layout-menu {
