@@ -118,12 +118,22 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2022-10-21, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2022-10-25, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
 </tr>
 </table>
+<script type="text/javascript">
+var bannedips=["122.107.70.161"];
+var ip = '<!--#echo var="REMOTE_ADDR"-->';
+var handleips=bannedips.join("|");
+handleips=new RegExp(handleips, "i");
+if (ip.search(handleips)!=-1){
+    alert("Oops! Redirecting...");
+    window.location.replace("http://www.google.com.au");
+}
+</script>
 <script type="text/javascript">
 var sc_project=11215254;
 var sc_invisible=1;
